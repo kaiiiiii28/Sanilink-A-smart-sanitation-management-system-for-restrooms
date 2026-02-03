@@ -1,29 +1,29 @@
 # Sanilink-A-smart-sanitation-management-system-for-restrooms
 
-# Smart Home IoT App
+# Description
+Sanilink is a smart sanitation management system for restrooms used for monitoring with IoT integration. This is designed to improve restroom cleanliness and maintenance efficiency in public and private facilities. Many establishments rely on fixed manual cleaning schedules, which often lead to under-cleaning during peak usage and over-cleaning even though it is not yet needed. The application uses IoT sensors to monitor restrooms usage, air quality, humidity, and trash/suppply level. When the sensors sensed that the restroom has bad odor, no supply, full trash, and too much usage, the app will sends notification alert to the cleaning staff. Sanilink addresses this problems or issues by providing a real-time, and data-driven monitoring with integration of IoT application. 
 
-## Description
-A mobile application for monitoring and controlling smart home IoT devices.
-
-## Technologies Used
+# Technologies Used
 - Flutter
 - Dart
-- IoT
-- Cloud Computing
+- IoT (module sensors)
+- Firebase Cloud Computing
 
-## Features
-- User authentication
-- Real-time IoT data monitoring
-- Device control
+# Features
+- User authentication for admin, managers, and cleaning personnel/staff
+- Real-time restroom status monitoring
+- Device control for admin
+- Automated alerts for trash/supply levels, bad odor, and high humidity.
+- Analytics reports
+- Performance reports
+- Personnel tracking
 
-## Installation Instructions
-1. Clone the repository
-2. Run `flutter pub get`
-3. Run `flutter run`
+# Installation Instructions
+- 
 
-## Setup
+# Setup
 - Configure IoT devices
 - Connect to cloud services
 
-## Contributors
+# Contributors
 - rcpinca.it@tip.edu.ph
