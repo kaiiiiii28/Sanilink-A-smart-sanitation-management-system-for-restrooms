@@ -21,14 +21,9 @@ Sanilink is a smart sanitation management system for restrooms used for monitori
 
 # Installation Instructions
 - Requirements:
-  Android Studio
-  IoT sensors
-  Arduino Uno
+  Android Studio, IoT module sensors, Arduino Uno
 - Steps in Installation:
-  Download the project files
-  Open Android Studio
-  Connect the app to Firebase
-  Run the app on emulator
+  Download the project files. After downloading the files, open the Android Studio. Then, Connect the app to Firebase. Lastly, Run the app on emulator.
 
 # Setup
 - Configure IoT devices
