@@ -6,20 +6,29 @@ Sanilink is a smart sanitation management system for restrooms used for monitori
 # Technologies Used
 - Flutter
 - Dart
-- IoT (module sensors)
+- IoT sensors (module sensors if in arduino)
 - Firebase Cloud Computing
 
 # Features
 - User authentication for admin, managers, and cleaning personnel/staff
 - Real-time restroom status monitoring
 - Device control for admin
-- Automated alerts for trash/supply levels, bad odor, and high humidity.
+- Automated alerts for trash/supply levels, poor air quality, restroom needs cleaning, and high humidity.
 - Analytics reports
 - Performance reports
 - Personnel tracking
+- Status using LEDs (in arduino only)
 
 # Installation Instructions
-- 
+- Requirements:
+  Android Studio
+  IoT sensors
+  Arduino Uno
+- Steps in Installation:
+  Download the project files
+  Open Android Studio
+  Connect the app to Firebase
+  Run the app on emulator
 
 # Setup
 - Configure IoT devices
