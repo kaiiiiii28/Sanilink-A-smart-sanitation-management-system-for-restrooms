@@ -29,4 +29,9 @@ Sanilink is a smart sanitation management system for restrooms used for monitori
 - First, make sure the sensors are connected to the Arduino Uno to collect data on restroom usage, air quality, humidity, trash level, and supply level. The Arduino sends the sensor data to the Firebase cloud through Wi-Fi. Firebase stores the data and sends alerts to the mobile application. The mobile app displays real-time restroom status and notifications to users. And finally, the system is tested by simulating usage, odor, humidity, and supply conditions to ensure proper operations.
 
 # Contributors
+- qrhmdeleon@tip.edu.ph
+- qemapolinar@tip.edu.ph
+- qtpcnicolas@tip.edu.ph
+- qcdmrendon@tip.edu.ph
+- qcmsoriano@tip.edu.ph
 - rcpinca.it@tip.edu.ph
